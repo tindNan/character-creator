@@ -10,6 +10,7 @@ const Footer = () => {
         href="https://www.openpeeps.com/"
         target="_blank"
         rel="noopener noreferrer"
+        style={{ color: 'white' }}
       >
         Open Peeps
       </a>
